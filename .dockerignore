@@ -1,0 +1,10 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+.github
+.git
+.env*
+!.env.example
+dist
+ngrok.yml
